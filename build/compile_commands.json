@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/galip/projects/communication_manager/build",
+  "command": "/usr/bin/g++-7   -I/home/galip/projects/communication_manager/.  -g   -pthread -std=gnu++11 -o CMakeFiles/modbus.dir/modbus_controller.cpp.o -c /home/galip/projects/communication_manager/modbus_controller.cpp",
+  "file": "/home/galip/projects/communication_manager/modbus_controller.cpp"
+}
+]

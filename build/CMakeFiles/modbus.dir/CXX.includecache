@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/galip/projects/communication_manager/modbus.h
+cstring
+-
+iostream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+
+/home/galip/projects/communication_manager/modbus_controller.cpp
+iostream
+-
+string
+-
+utility
+-
+chrono
+-
+thread
+-
+modbus_controller.h
+/home/galip/projects/communication_manager/modbus_controller.h
+
+/home/galip/projects/communication_manager/modbus_controller.h
+iostream
+-
+string
+-
+utility
+-
+modbus.h
+/home/galip/projects/communication_manager/modbus.h
+

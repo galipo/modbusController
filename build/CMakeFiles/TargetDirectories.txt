@@ -1,0 +1,3 @@
+/home/galip/projects/communication_manager/build/CMakeFiles/rebuild_cache.dir
+/home/galip/projects/communication_manager/build/CMakeFiles/modbus.dir
+/home/galip/projects/communication_manager/build/CMakeFiles/edit_cache.dir
