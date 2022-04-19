@@ -27,6 +27,4 @@ VM Ubuntu 18.4 IP       : 192.168.224.3
 3. /communication_manager/modbus_controller.h
 - Register/Coil Read/Write and print results funcitons
 
-## 2 Future Release Plan
-1. Engin    : Kafka Functions (add files to /communication_manager/)
-2. Selçuk   : PLC Project (add files to /communication_manager/plc)
+
